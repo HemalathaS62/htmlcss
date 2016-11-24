@@ -1,0 +1,23 @@
+.container_12{
+	background-color: #e3e3e3;
+}
+header{
+	background-color: cyan;
+	position: fixed;
+}
+h1{
+	font-family: sans-serif;
+
+}
+nav li{
+	display: inline;
+	text-decoration: none;
+	margin-left: 0;
+	margin-right: 20px;
+	
+}
+nav a:hover{
+	text-decoration: underline;
+	color: red;
+	font-style: italic;
+}
